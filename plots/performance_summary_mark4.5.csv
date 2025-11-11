@@ -1,0 +1,11 @@
+# Performance Summary for mark4.5
+
+Metric,Score
+Accuracy,0.975
+ROC AUC,1.0
+
+# Class-wise Metrics
+
+Class,Precision,Recall,F1-Score
+media_talking,0.9523809523809523,1.0,0.975609756097561
+others,1.0,0.95,0.9743589743589743
