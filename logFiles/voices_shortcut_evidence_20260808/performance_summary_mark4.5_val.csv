@@ -1,0 +1,12 @@
+# Performance Summary for mark4.5_val
+
+Metric,Score
+Accuracy,1.0
+ROC AUC,1.0
+Others FPR,0.0
+
+# Class-wise Metrics
+
+Class,Precision,Recall,F1-Score
+media_talking,1.0,1.0,1.0
+others,1.0,1.0,1.0

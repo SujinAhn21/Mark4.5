@@ -1,0 +1,4 @@
+mark_version,target,n_others,others_prob_sd,category_mean_spread,decision_axis,content_share_pct,target_others_gap
+mark4.1,heavy_impact,215,0.135847,0.42756,0.821125,52.07,-0.486251
+mark4.3,construction,215,0.1605,0.312717,0.82403,37.95,-0.704001
+mark4.5,media_talking,215,0.005652,0.013247,0.798252,1.66,0.54336
